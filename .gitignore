@@ -1,0 +1,76 @@
+# =========================
+# JUCE + C++ Project Ignore
+# =========================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+desktop.ini
+
+# Linux
+*~
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.VC.db
+*.VC.opendb
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+Debug/
+Release/
+x64/
+x86/
+*/Debug/
+*/Release/
+Builds/**/Debug/
+Builds/**/Release/
+Builds/**/x64/
+*.plist
+*.aps
+
+# Compiled files
+*.obj
+*.ilk
+*.pdb
+*.idb
+*.tlog
+*.log
+*.exe
+*.dll
+*.lib
+*.exp
+*.recipe
+
+# =========================
+# Xcode
+# =========================
+build/
+DerivedData/
+*.xcworkspace
+*.xcuserdata
+*.xccheckout
+*.moved-aside
+
+# =========================
+# Linux Makefile Builds
+# =========================
+Builds/LinuxMakefile/build/
+Builds/LinuxMakefile/*.o
+Builds/LinuxMakefile/*.a
+Builds/LinuxMakefile/*.so
+
+# =========================
+# JUCE generated binary data
+# =========================
+BinaryData*.o
+JuceLibraryCode/
