@@ -6,6 +6,11 @@ It provides a dual-deck mixing workflow with waveform visualization, transport c
 This project focuses on real-time audio playback, GUI development, and clean OOP architecture using JUCE components.
 
 ---
+## Screenshots
+<img width="974" height="770" alt="image" src="https://github.com/user-attachments/assets/5bdf1aab-9a68-4377-a11f-fd86cf08360d" />
+
+## Demo Video
+https://drive.google.com/file/d/1o6iu7PG7HHLtiBjsZFeB3HyDlIk8Tl1K/view?usp=sharing
 
 ## Features
 
